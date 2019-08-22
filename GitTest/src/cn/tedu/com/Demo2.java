@@ -1,14 +1,13 @@
 package cn.tedu.com;
 /**
- *  ±¾ÀàÓÃÓÚ²âÊÔÊ¹ÓÃ
+ *  æœ¬ç±»ç”¨äºæµ‹è¯•ä½¿ç”¨
  * @author Sjc
  *
  */
 public class Demo2{
 
 	public static void main(String[] args) {
-
-		System.out.println("Ñ§Ï°ĞèÒª¼á³Ö");
+             System.out.println("è¯·è¾“å…¥æˆ‘çš„åå­—")
 	}
 
 }
